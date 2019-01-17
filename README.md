@@ -1,2 +1,0 @@
-# Tend
-Created with CodeSandbox
