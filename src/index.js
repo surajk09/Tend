@@ -6,7 +6,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>Tend</h1>
+      <h1>Tend v 1.0.0</h1>
     </div>
   );
 }
