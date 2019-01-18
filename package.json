@@ -1,13 +1,17 @@
 {
-  "name": "youtubeflix",
+  "name": "tend-v100",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "google-auth-library": "2.0.2",
     "react": "16.5.2",
     "react-dom": "16.5.2",
-    "react-scripts": "2.0.3"
+    "react-google-login": "5.0.0",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.3",
+    "semantic-ui-react": "0.84.0"
   },
   "devDependencies": {},
   "scripts": {
