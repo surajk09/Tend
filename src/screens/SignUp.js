@@ -62,6 +62,7 @@ class SignUp extends React.Component {
     const { email, fullName, password } = this.state;
     return (
       <div>
+        <h2>regisrtation</h2>
         <form onSubmit={this.onSubmit}>
           <input
             type="text"
