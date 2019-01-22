@@ -65,7 +65,7 @@ const UserDashboardSide = () => (
   <Menu inverted icon="labeled" vertical>
     <Menu.Item name="gamepad" active={"gamepad"}>
       <Icon name="gamepad" />
-      Games
+      Games updates
     </Menu.Item>
 
     <ModalExampleTopAligned />
